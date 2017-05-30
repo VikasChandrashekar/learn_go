@@ -7,7 +7,7 @@ func main() {
 	b := "go language"
 	c := 4.17
 	d := true
-	e := 'M'
+	e := 'A'
 	f := `Do you wanna eat ice cream?`
 
 	fmt.Printf("%v \n", a)
